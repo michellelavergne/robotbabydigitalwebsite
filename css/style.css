@@ -4185,7 +4185,13 @@ footer p {
   }
   .team-image img,
   .team-image2 img {
-    width: 100%;
+    width: 100% !important;
+  }
+
+  .team-image {
+    /* background: linear-gradient(to right, #fc2548 0%, #f11fad 93%); */
+    max-width: 87%;
+    max-height: 300px;
   }
   .m-image1,
   .m-image2,
@@ -4408,6 +4414,12 @@ footer p {
   #message {
     text-align: center;
   }
+
+  .team-image {
+    background: linear-gradient(to right, #fc2548 0%, #f11fad 93%);
+    max-width: 223px;
+    max-height: 300px;
+  }
 }
 @media (max-width: 390px) {
   h2,
@@ -4416,5 +4428,17 @@ footer p {
   }
   .price-box h4 {
     font-size: 18px;
+  }
+
+  .team-image {
+    background: linear-gradient(to right, #fc2548 0%, #f11fad 93%);
+    margin: auto;
+    max-width: 223px;
+    max-height: 300px;
+  }
+
+  .team-intro {
+    margin-left: 28px;
+    padding: 20px;
   }
 }
