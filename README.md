@@ -2,7 +2,7 @@
 
 I started a web development company and this is my website that I'm working on.
 
-**Link to project:** https://robotbabydigital.netlify.app/
+**Link to project:** https://robotbabydigital.com
 
 ![R2D2-and-C3PO-gif](https://media.giphy.com/media/7X1DWR8wFWzxS/giphy.gif)
 
